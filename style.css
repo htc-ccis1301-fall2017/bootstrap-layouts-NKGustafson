@@ -1,0 +1,9 @@
+h1 {
+  text-align: center;
+}
+
+.grey {
+  background: #AAA;
+  border: 1px solid #333;
+  padding: 20px;
+}
